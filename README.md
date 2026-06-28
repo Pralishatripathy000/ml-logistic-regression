@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="ChatGPT Image Jun 28, 2026, 11_58_05 PM" src="https://github.com/user-attachments/assets/21f98b74-33cb-4ca3-8f82-5ce438ec60f0" />
+
+
 # 📊 ML Logistic Regression
 
 > **An end-to-end implementation of Logistic Regression for binary classification, covering exploratory data analysis, model training, evaluation, classification metrics, and model interpretation.**
