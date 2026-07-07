@@ -16,6 +16,55 @@ This project demonstrates the complete machine learning workflow, including data
 This repository is part of my **ML Fundamentals** series, where each project focuses on understanding a core machine learning algorithm through theory, implementation, and practical experimentation.
 
 ---
+## 📊 Dataset
+
+This project uses the **Breast Cancer Wisconsin Diagnostic Dataset**, available through the **Scikit-learn** library.
+
+The dataset contains features computed from digitized images of fine needle aspirates (FNA) of breast masses. These measurements describe characteristics of the cell nuclei and are used to classify tumors as either **Malignant** or **Benign**.
+
+### Dataset Summary
+
+| Property | Value |
+|----------|------:|
+| Samples | 569 |
+| Features | 30 |
+| Target Classes | 2 |
+| Missing Values | None |
+| Problem Type | Binary Classification |
+
+### Target Variable
+
+| Class | Description |
+|-------|-------------|
+| **0** | Malignant |
+| **1** | Benign |
+
+### Feature Categories
+
+The dataset consists of 30 numerical features derived from cell nucleus measurements, including:
+
+- Radius
+- Texture
+- Perimeter
+- Area
+- Smoothness
+- Compactness
+- Concavity
+- Concave Points
+- Symmetry
+- Fractal Dimension
+
+For each characteristic, the dataset includes:
+
+- Mean value
+- Standard error (SE)
+- Worst (largest) value
+
+These measurements collectively help the Logistic Regression model distinguish between malignant and benign tumors.
+
+
+---
+
 
 ## 🚀 Project Status
 
