@@ -66,11 +66,7 @@ These measurements collectively help the Logistic Regression model distinguish b
 ---
 
 
-## 🚀 Project Status
-
-> 🚧 Currently under development.
-
-The repository will include:
+## 🚀 Project Repository will include:
 
 * Dataset exploration and preprocessing
 * Exploratory Data Analysis (EDA)
